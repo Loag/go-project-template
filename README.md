@@ -1,2 +1,1 @@
-# go-service
-go web service
+# go-service-template
