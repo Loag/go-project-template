@@ -1,1 +1,1 @@
-# go-service-template
+# go-project-template
